@@ -1,4 +1,4 @@
-# Hacker_Rank_Solution
+# Hacker_Rank_Accepted
 
 
 Hacker_Rank_Link
